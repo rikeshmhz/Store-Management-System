@@ -1,0 +1,42 @@
+table{
+	background: #fff;
+	max-width: 100%;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+th{
+	height: 50px;
+  	width: 200px;
+  	text-align: center;
+  	background-color: #98B4D4;
+}
+td{
+	height: 50px;
+  	width: 250px;
+  	text-align: center;
+}
+button{
+	background: #00774f;
+	display: block;
+	border: 2px solid none;
+	padding: 5px 4px 5px 25px;
+	outline: none;
+	cursor: pointer;
+	border-radius: 10px;
+	margin-left: 25%;
+}
+img{
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	margin-left: -20px;
+	margin-top: -3px;
+}
+a{
+	text-decoration: none;
+}
+p{
+	position: absolute;
+	margin-top: -10px;
+	margin-left: 69px;
+}

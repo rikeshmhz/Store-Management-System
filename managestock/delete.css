@@ -1,0 +1,49 @@
+.box{
+	width: 40%;
+	padding: 10px;
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 30%;
+	background: #fff;
+}
+p{
+	color: #f0a500;
+}
+input{
+	width: 15%;
+  	padding: 5px;
+	background-color: #BABECC;
+	border: 1px solid #e5e5e5;
+	border-radius: 3px;
+}
+input:focus{
+	outline: 0;
+ 	border-color: #bd8200;
+}
+.yes{
+	background-color: #e02214;
+	display: block;
+	border: 2px solid none;
+	padding: 5px;
+	outline: none;
+	cursor: pointer;
+	border-radius: 10px;
+	margin-left: 10%;
+	margin-top: 4%;
+}
+.no{
+	background-color: #2bcc2d;
+	display: block;
+	border: 2px solid none;
+	padding: 6px;
+	outline: none;
+	cursor: pointer;
+	border-radius: 10px;
+	margin-left: 20%;
+	margin-top: -5.5%;
+}
+h5{
+	position: absolute;
+	margin-top: 2%;
+	margin-left: 10%;
+}

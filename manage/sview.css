@@ -1,0 +1,50 @@
+.box{
+	width: 69%;
+	padding: 10px;
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 15%;
+	background: #fff;
+}
+p{
+	color: #f0a500;
+}
+input{
+	width: 15%;
+  	padding: 5px;
+	background-color: #BABECC;
+	border: 1px solid #e5e5e5;
+	border-radius: 3px;
+}
+input:focus{
+	outline: 0;
+ 	border-color: #bd8200;
+}
+button{
+	background-color: #37966b;
+	display: block;
+	border: 2px solid none;
+	padding: 5px 4px 5px 40px;
+	outline: none;
+	cursor: pointer;
+	border-radius: 10px;
+}
+img{
+	width: 20px;
+	height: 20px;
+	position: fixed;
+	margin-left: -30px;
+	margin-top: -3px;
+}
+.aa{
+	color: red;
+	margin-left: 40%;
+	text-decoration: none;
+	cursor: pointer;
+}
+.aa:hover{
+	text-decoration: underline;
+}
+.ema{
+	width: 25%;
+}

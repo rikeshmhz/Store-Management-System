@@ -1,0 +1,55 @@
+.box{
+	width: 300px;
+	padding: 40px;
+	position: absolute;
+	top: 55%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	text-align: center;
+	background: rgba(0,0,0,.5);
+  	box-shadow: 0 15px 25px rgba(0,0,0,.6);
+  	border-radius: 10px;
+}
+.box h1{
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: 500;
+	margin-left: -10px;
+}
+.user{
+	background: none;
+	display: block;
+	margin: 20px auto;
+	text-align: center;
+	border: 2px solid #006666;
+	padding: 14px 10px;
+	width: 200px;
+	outline: none;
+	color: white;
+	border-radius: 24px;
+}
+P{
+	color: white;
+	text-align: left;
+	margin: 30px 0px -15px 45px;
+}
+.box button{
+	background: #418eba;
+	display: block;
+	border: 2px solid none;
+	padding: 5px 4px 5px 40px;
+	outline: none;
+	cursor: pointer;
+	margin: 20px auto;
+	border-radius: 24px;
+}
+.box button img{
+	width: 20px;
+	height: 20px;
+	position: fixed;
+	margin-left: -30px;
+	margin-top: -3px;
+}
+::placeholder{
+	color: white;
+}

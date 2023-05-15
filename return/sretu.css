@@ -1,0 +1,93 @@
+.box{
+	width: 69%;
+	padding: 2px;
+	margin-top: 5%;
+	margin-left: 15%;
+	background: #fff;
+	position: absolute;
+}
+p{
+	color: #f0a500;
+	margin-left: 30%;
+}
+.inv{
+	width: 120px;
+}
+.b1{
+	background-color: #37966b;
+	display: block;
+	border: 2px solid none;
+	padding: 5px 4px 5px 40px;
+	outline: none;
+	cursor: pointer;
+	border-radius: 10px;
+	position: absolute;
+	margin-left: 30%;
+	margin-top: -2.9%;
+}
+.b1>img{
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	margin-left: -30px;
+	margin-top: -3px;
+}
+.h11{
+	position: absolute;
+	margin-left: 15%;
+}
+select{
+	width: 20%;
+	background: #ff6600;
+	border: 2px solid none;
+	border-radius: 5px;
+	cursor: pointer;
+	height: 25px;
+}
+table{
+	background: #fff;
+	max-width: 100%;
+  	margin-left: 10px;
+  	margin-right: 10px;
+  	margin-top: 12%;
+}
+th{
+	height: 50px;
+  	width: 200px;
+  	text-align: center;
+  	background-color: #98B4D4;
+}
+td{
+	height: 50px;
+  	width: 200px;
+  	text-align: center;
+}
+button{
+	background: #ff845a;
+	display: block;
+	border: 2px solid none;
+	padding: 5px 4px 5px 25px;
+	outline: none;
+	cursor: pointer;
+	border-radius: 10px;
+	margin-left: 15%;
+}
+img{
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	margin-left: -20px;
+	margin-top: -3px;
+}
+a{
+	text-decoration: none;
+}
+h4{
+	color: red;
+}
+.ac{
+	position: absolute;
+	margin-top: -10px;
+	margin-left: 30px;
+	color: black;
+}
